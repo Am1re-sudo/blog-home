@@ -1,14 +1,14 @@
 {
-    "title": "Auroraの主页",
+    "title": "Coisniの主页",
     "description": "一个默默无闻的主页",
-    "keywords": "Aurora,个人主页",
-    "author": "Aurora",
+    "keywords": "Coisni,个人主页",
+    "author": "Coisni",
     "logo_img": "./img/icon/avatar.jpg",
     "logo_text_1": "wuhobin",
     "logo_text_2": "top",
     "github": "wuhobin",
-    "qq": "1289066006",
-    "email": "1289066006@qq.com",
+    "qq": "2230656608",
+    "email": "2230656608@qq.com",
     "bilibili": "495003013",
     "facebook": "bottom_user",
     "link_1": [
@@ -41,6 +41,6 @@
         "fa-solid fa-flask",
         "敬请期待..."
     ],
-    "Copyright_text": "Aurora",
+    "Copyright_text": "Coisni",
     "beian": "鄂ICP备20006685号"
 }
